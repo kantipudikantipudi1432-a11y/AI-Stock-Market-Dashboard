@@ -67,7 +67,7 @@ streamlit run app.py
 
 ## 🌐 Live Demo
 
-Add your deployed Streamlit URL here after deployment.
+(https://ai-stock-market-analysis-ksa20.streamlit.app/)
 
 ## 👩‍💻 Author
 
