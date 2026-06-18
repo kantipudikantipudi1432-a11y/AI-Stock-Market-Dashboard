@@ -5,7 +5,6 @@ import numpy as np
 import plotly.graph_objects as go
 import feedparser
 
-from models.lstm_model import predict_next_price
 from textblob import TextBlob
 from ta.momentum import RSIIndicator
 from ta.trend import MACD
