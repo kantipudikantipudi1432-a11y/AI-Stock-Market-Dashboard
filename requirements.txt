@@ -7,4 +7,3 @@ ta
 feedparser
 textblob
 scikit-learn
-tensorflow-cpu
